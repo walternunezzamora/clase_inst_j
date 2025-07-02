@@ -1,0 +1,19 @@
+#Crear entorno virtual
+"""
+python -m venv venv
+.\venv\Scripts\activate */
+"""
+#Instalar dependencias
+#pip install fastapi uvicorn sqlalchemy pydantic
+
+# REQUERIMIENTOS : 
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+
+
+
+
+
+
